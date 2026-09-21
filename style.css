@@ -44,3 +44,24 @@ button:hover {
     color: #ff5252;
     font-weight: bold;
 }
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.menu a {
+    color: #03dac6;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}
+
+.boas-vindas {
+    text-align: center;
+    margin-top: 10px;
+}
